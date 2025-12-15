@@ -1,0 +1,9 @@
+a=10
+print(type(a))
+a=str(a)
+print(type(a))
+a=10.0
+print(type(a))
+a=bool(a)
+print(type(a))
+print(a)
